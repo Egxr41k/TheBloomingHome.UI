@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TheBloomingHome.UI/static/css/main.2faec6e0.css",
+    "main.js": "/TheBloomingHome.UI/static/js/main.c432ca7f.js",
+    "static/js/787.4ec172fa.chunk.js": "/TheBloomingHome.UI/static/js/787.4ec172fa.chunk.js",
+    "static/media/instagram.svg": "/TheBloomingHome.UI/static/media/instagram.26551a7a83da2e6330c0fa9d5b0d9121.svg",
+    "static/media/viber.svg": "/TheBloomingHome.UI/static/media/viber.e41ec6a2930d3741d2c2c7b98638e569.svg",
+    "static/media/messenger.svg": "/TheBloomingHome.UI/static/media/messenger.d2da631b0ebcf66d3caf9b4d7b599099.svg",
+    "static/media/telegram.svg": "/TheBloomingHome.UI/static/media/telegram.fcad02596734c150c7f256855d399752.svg",
+    "index.html": "/TheBloomingHome.UI/index.html",
+    "static/media/cart.svg": "/TheBloomingHome.UI/static/media/cart.e4e88dddda9f511c59465354420ee338.svg",
+    "static/media/menu.svg": "/TheBloomingHome.UI/static/media/menu.81bb88d7bb1924607cde3b57cc2a7531.svg",
+    "static/media/arrow_up.svg": "/TheBloomingHome.UI/static/media/arrow_up.64e716e72224b0ab3de52ee7f5133820.svg",
+    "static/media/arrow_down.svg": "/TheBloomingHome.UI/static/media/arrow_down.1840cf2b13f0fa7a476fdc1cfe1e9561.svg",
+    "static/media/close.svg": "/TheBloomingHome.UI/static/media/close.af9144fc82afd56487d837b685ee0d56.svg",
+    "main.2faec6e0.css.map": "/TheBloomingHome.UI/static/css/main.2faec6e0.css.map",
+    "main.c432ca7f.js.map": "/TheBloomingHome.UI/static/js/main.c432ca7f.js.map",
+    "787.4ec172fa.chunk.js.map": "/TheBloomingHome.UI/static/js/787.4ec172fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2faec6e0.css",
+    "static/js/main.c432ca7f.js"
+  ]
+}
