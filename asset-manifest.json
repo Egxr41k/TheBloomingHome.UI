@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/TheBloomingHome.UI/static/css/main.2faec6e0.css",
-    "main.js": "/TheBloomingHome.UI/static/js/main.c432ca7f.js",
+    "main.js": "/TheBloomingHome.UI/static/js/main.31b4b2de.js",
     "static/js/787.4ec172fa.chunk.js": "/TheBloomingHome.UI/static/js/787.4ec172fa.chunk.js",
+    "static/media/logo.png": "/TheBloomingHome.UI/static/media/logo.13c6924812a9939e92d8.png",
+    "static/media/NO_PHOTO_YET.png": "/TheBloomingHome.UI/static/media/NO_PHOTO_YET.be720c21fde8c7d6053b.png",
     "static/media/instagram.svg": "/TheBloomingHome.UI/static/media/instagram.26551a7a83da2e6330c0fa9d5b0d9121.svg",
     "static/media/viber.svg": "/TheBloomingHome.UI/static/media/viber.e41ec6a2930d3741d2c2c7b98638e569.svg",
     "static/media/messenger.svg": "/TheBloomingHome.UI/static/media/messenger.d2da631b0ebcf66d3caf9b4d7b599099.svg",
@@ -14,11 +16,11 @@
     "static/media/arrow_down.svg": "/TheBloomingHome.UI/static/media/arrow_down.1840cf2b13f0fa7a476fdc1cfe1e9561.svg",
     "static/media/close.svg": "/TheBloomingHome.UI/static/media/close.af9144fc82afd56487d837b685ee0d56.svg",
     "main.2faec6e0.css.map": "/TheBloomingHome.UI/static/css/main.2faec6e0.css.map",
-    "main.c432ca7f.js.map": "/TheBloomingHome.UI/static/js/main.c432ca7f.js.map",
+    "main.31b4b2de.js.map": "/TheBloomingHome.UI/static/js/main.31b4b2de.js.map",
     "787.4ec172fa.chunk.js.map": "/TheBloomingHome.UI/static/js/787.4ec172fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2faec6e0.css",
-    "static/js/main.c432ca7f.js"
+    "static/js/main.31b4b2de.js"
   ]
 }
