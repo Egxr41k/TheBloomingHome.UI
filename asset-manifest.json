@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TheBloomingHome.UI/static/css/main.2faec6e0.css",
-    "main.js": "/TheBloomingHome.UI/static/js/main.b2e4c58b.js",
+    "main.js": "/TheBloomingHome.UI/static/js/main.2b534974.js",
     "static/js/787.4ec172fa.chunk.js": "/TheBloomingHome.UI/static/js/787.4ec172fa.chunk.js",
     "static/media/logo.png": "/TheBloomingHome.UI/static/media/logo.13c6924812a9939e92d8.png",
     "static/media/NO_PHOTO_YET.png": "/TheBloomingHome.UI/static/media/NO_PHOTO_YET.be720c21fde8c7d6053b.png",
@@ -16,11 +16,11 @@
     "static/media/arrow_down.svg": "/TheBloomingHome.UI/static/media/arrow_down.1840cf2b13f0fa7a476fdc1cfe1e9561.svg",
     "static/media/close.svg": "/TheBloomingHome.UI/static/media/close.af9144fc82afd56487d837b685ee0d56.svg",
     "main.2faec6e0.css.map": "/TheBloomingHome.UI/static/css/main.2faec6e0.css.map",
-    "main.b2e4c58b.js.map": "/TheBloomingHome.UI/static/js/main.b2e4c58b.js.map",
+    "main.2b534974.js.map": "/TheBloomingHome.UI/static/js/main.2b534974.js.map",
     "787.4ec172fa.chunk.js.map": "/TheBloomingHome.UI/static/js/787.4ec172fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2faec6e0.css",
-    "static/js/main.b2e4c58b.js"
+    "static/js/main.2b534974.js"
   ]
 }
